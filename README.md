@@ -1,3 +1,4 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/ki5ux09hiyd50u7r?svg=true)](https://ci.appveyor.com/project/NMKD/ahj-diplom-front)
 
 
 [Ссылка на GitHub Pages]()<br>
