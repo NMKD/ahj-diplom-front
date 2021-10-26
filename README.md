@@ -1,7 +1,7 @@
 [![Build status](https://ci.appveyor.com/api/projects/status/ki5ux09hiyd50u7r?svg=true)](https://ci.appveyor.com/project/NMKD/ahj-diplom-front)
 
 
-[Ссылка на GitHub Pages]()<br>
+[Ссылка на GitHub Pages](https://nmkd.github.io/ahj-diplom-front/)
 [Репозиторий Backend](https://ahj-diplom-back.herokuapp.com/)
 
 ---
@@ -158,7 +158,7 @@
 * Favourites.js – работа с избранными сообщениями
 * Pin.js – закрепление сообщения
 
-Web-версия приложения опубликована через [GitHub Pages]().
+Web-версия приложения опубликована через [GitHub Pages](https://nmkd.github.io/ahj-diplom-front/).
 Серверная часть (бэкенд) через сервис [Heroku](https://ahj-diplom-back.herokuapp.com/), подразумевающий следующие ограничения:
 * сброс серверной части и базы данных спустя 30-60 минут
 * время запуска после простоя и поступление первого ответа спустя 10-30 секунд после обращения
